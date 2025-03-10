@@ -1,6 +1,6 @@
 /* header publishing */
 .home_page {
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
   display: flex;
   flex-direction: column;
 }
@@ -818,6 +818,7 @@
   justify-content: center;
 
   background-image: url("../images/bottomsec/background.png");
+  background-size: cover;
 }
 .event_frame .container {
   flex-direction: row;
